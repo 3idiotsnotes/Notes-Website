@@ -1,0 +1,43 @@
+
+.section-text{
+    color: black;
+}
+section-text:hover{
+    color: dimgray;
+}
+.notes-area{
+    border: 2px;
+    background-color: rgb(181, 44, 133);
+    color: aliceblue;
+}
+.assignment-area{
+    border: 2px;
+    background-color: #FF8787;
+    color: aliceblue;
+}
+.Lab-area{
+    border: 50px coral;
+    background-color: #7FE9DE;
+    color: azure;
+}
+.footer-container{
+    background-color: #9FB4FF;
+    color: #FF8787;}
+
+#contact-us{
+background-color:#9ED5C5;
+font-family: sans-serif;
+padding-top: 0%;
+}
+.text-area{
+    width: auto;
+}
+    
+.heading-news{
+    background-color:#FF8DC7;
+    
+}
+.assignment{
+    background-color: #9FB4FF;
+    padding: 0;
+}
